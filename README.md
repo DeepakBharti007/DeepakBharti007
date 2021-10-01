@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeepakBharti007
 - 👀 I’m interested in Web and App Developement 
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on other onec
+- 💞️ I’m looking to collaborate with other onec
 - 📫 You can reach to me by following on Github 
 
 <!---
